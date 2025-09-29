@@ -1,9 +1,13 @@
 # Ensemble Siamese Neural Networks for Prodrug Activation Prediction
 This study details the development of an ensemble Siamese neural network model for predicing prodrug activation. Our model accurately predicts FDA-approved prodrugs and shows particularly remarkable performance in predicting non-traditional biotransformations, prodrug activations not captured by established metabolic reaction rules, and when predicting activation of prodrugs with lower chemical structural similarity to their API. A prospective analysis confirmed the model's ability to rank prodrug candidates by their observed release profile, establishing this tool as a generalizable resource for rational prodrug design.
+<img width="1401" height="409" alt="GitHubAbstract" src="https://github.com/user-attachments/assets/9d5ecc7e-5848-4302-9487-8a27adf1183c" />
+
 
 ## Folder descriptions
 ### ablation
 This folder contains code used to train and evaluate modified versions of the three SiameseNN models in the ensemble for an ablation study. Ablation study model architectures are as follows: 
+
+<img width="758" height="346" alt="image" src="https://github.com/user-attachments/assets/a040c13b-b9c0-41c6-9bd3-04dd4bc857e8" />
 
 ### baseline_models
 This folder contains code used to train and evaluate baseline ensemble models. Baseline machine learning models include:
