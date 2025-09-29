@@ -1,0 +1,133 @@
+﻿index,Reac,Prod,Name,Indication,Type,Tanimoto,Taminoto_Class,Related,SyGMa_Pred,GLORYx_Pred,BioTransformer_Pred,MetaTrans_Pred
+45,CCCC(C)(COC(=O)N)COC(=O)NC(C)C,CCCC(C)(COC(=O)N)COC(=O)N,carisoprodol,CYP,1,0.696969697,2,1,1,1,0,1
+48,CCN(CC)Cc1cc(Nc2ccnc3cc(Cl)ccc23)ccc1O,CCNCC1=C(C=CC(=C1)NC2=C3C=CC(=CC3=NC=C2)Cl)O,amodiaquine,CYP,1,0.735849057,2,1,1,1,1,1
+49,C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(OC)ccc4[C@H]3CC[C@@]21C,C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C,mestranol,CYP,1,0.764705882,1,1,1,1,0,1
+50,COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@]314,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,codeine,CYP,1,0.759259259,1,1,1,1,1,1
+51,COc1ccc2c(c1)[C@]13CCCC[C@@H]1[C@H](C2)N(C)CC3,CN1CC[C@@]23CCCC[C@@H]2[C@@H]1Cc1ccc(O)cc13,dextromethorphan,CYP,1,0.708333333,2,1,1,1,0,1
+52,CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O,CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)O)O,tramadol,CYP,1,0.717391304,2,1,1,1,1,1
+54,C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(OC(=O)c1ccco1)C(=O)SCF,C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)SCF,fluticasone furoate,CYP,1,0.662337662,2,1,1,1,0,1
+57,CCC(=O)OCC(=O)[C@@]1(OC(=O)CC)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@@]21C,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,beclomethasone dipropionate,CYP,1,0.625,2,1,0,0,0,1
+2,CCOC(=O)[C@H](CC1=CC=C(C=C1)C2=CC(=NC(=N2)N)O[C@H](C3=C(C=C(C=C3)Cl)N4C=CC(=N4)C)C(F)(F)F)N,CC1=NN(C=C1)C2=C(C=CC(=C2)Cl)[C@H](C(F)(F)F)OC3=NC(=NC(=C3)C4=CC=C(C=C4)C[C@@H](C(=O)O)N)N,telotristat ethyl,Esterase,1,0.864864865,1,1,1,1,1,1
+3,CCCCCCCCCC(=O)OC1(CCN(CC1)CCCC(=O)C2=CC=C(C=C2)F)C3=CC=C(C=C3)Cl,C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F,haloperidol decanoate,Esterase,1,0.633333333,2,1,1,1,1,1
+4,CCOC(=O)[C@H](C)C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O,C[C@H](C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O)C(=O)O,sacubitril,Esterase,1,0.770833333,1,1,1,1,1,1
+5,CNCC(O)c1ccc(OC(=O)C(C)(C)C)c(OC(=O)C(C)(C)C)c1,CNCC(O)c1ccc(O)c(O)c1,dipivefrin,Esterase,1,0.476190476,3,1,0,0,0,1
+8,CC(C)OC(=O)CCCC=CCC1C(CC(C1C=CC(COC2=CC=CC=C2)(F)F)O)O,C1C(C(C(C1O)C=CC(COC2=CC=CC=C2)(F)F)CC=CCCCC(=O)O)O,tafluprost,Esterase,1,0.793650794,1,1,1,1,1,1
+12,CC(C)(C)OC(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)OC(C)(C)C,Nc1ncnc2c1ncn2CCOCP(=O)(O)O,adefovir pivoxil,Esterase,1,0.603448276,2,1,0,0,0,1
+30,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1Cc2ccccc2C[C@H]1C(=O)O,C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1Cc2ccccc2C[C@H]1C(=O)O,quinapril,Esterase,1,0.818181818,1,1,1,1,1,1
+31,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@@H]21,C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1[C@H](C(=O)O)C[C@@H]2CCC[C@@H]21,ramipril,Esterase,1,0.824561404,1,1,1,1,1,1
+33,CCOC(=O)C1=C[C@@H](OC(CC)CC)[C@H](NC(C)=O)[C@@H](N)C1,CCC(CC)O[C@@H]1C=C(C(=O)O)C[C@H](N)[C@H]1NC(C)=O,oseltamivir,Esterase,1,0.765957447,1,1,1,1,1,1
+36,CC(OC(=O)NCC1(CC(=O)O)CCCCC1)OC(=O)C(C)C,NCC1(CC(=O)O)CCCCC1,gabapentin enacarbil,Esterase,1,0.404761905,3,1,0,1,0,1
+37,CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC,CCc1c2c(nc3ccc(O)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC,irinotecan,Esterase,1,0.638554217,2,1,1,1,0,1
+38,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,CC[C@H](C)C(=O)O[C@H]1CCC=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@H]21,lovastatin,Esterase,1,0.772727273,1,1,0,0,0,0
+40,CCCCCCCC(=O)CC[C@H]1[C@H](O)C[C@H](O)[C@@H]1C/C=C\CCCC(=O)OC(C)C,CCCCCCCC(=O)CC[C@H]1[C@H](O)C[C@H](O)[C@@H]1C/C=C\CCCC(=O)O,isopropyl unoprostone,Esterase,1,0.730769231,2,1,1,1,1,1
+41,CC(C)OC(=O)CNC1=CC=CC(=N1)CN(CC2=CC=C(C=C2)N3C=CC=N3)S(=O)(=O)C4=CN=CC=C4,C1=CC(=NC(=C1)NCC(=O)O)CN(CC2=CC=C(C=C2)N3C=CC=N3)S(=O)(=O)C4=CN=CC=C4,omidenepag isopropyl,Esterase,1,0.8,1,1,1,1,1,1
+64,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)C(C3=CC=CC=C3)C(=O)OC4=CC5=C(CCC5)C=C4)C(=O)O)C,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)C(C3=CC=CC=C3)C(=O)O)C(=O)O)C,carindacillin,Esterase,1,0.646153846,2,1,1,1,1,1
+65,C[C@H](CSC(=O)c1ccccc1)C(=O)N1C[C@@H](Sc2ccccc2)C[C@H]1C(=O)O,C[C@H](CS)C(=O)N1C[C@@H](Sc2ccccc2)C[C@H]1C(=O)O,zofenopril,Esterase,1,0.711538462,2,1,0,0,0,1
+66,CCOC(=O)OC(C)OC(=O)[C@@H]1N2C(=O)[C@@H](NC(=O)[C@H](N)c3ccccc3)[C@H]2SC1(C)C,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)c3ccccc3)C(=O)N2[C@H]1C(=O)O,bacampicillin,Esterase,1,0.666666667,2,1,1,1,0,1
+67,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O,C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1CCC[C@H]1C(=O)O,enalapril,Esterase,1,0.811320755,1,1,1,1,1,1
+68,COCC1=C(C(=O)OC(C)OC(=O)OC(C)C)N2C(=O)[C@@H](NC(=O)/C(=N\OC)c3csc(N)n3)[C@H]2SC1,COCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)/C(=N\OC)c3csc(N)n3)[C@H]2SC1,cefpodoxime proxetil,Esterase,1,0.753246753,1,1,1,1,0,1
+69,CCC[C@@H](C(=O)OCC)N[C@@H](C)C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C(=O)O,CCC[C@@H](C(=O)O)N[C@@H](C)C(=O)N1[C@H]2CCCC[C@H]2C[C@H]1C(=O)O,perindopril,Esterase,1,0.803921569,1,1,1,1,1,1
+70,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1CC2(C[C@H]1C(=O)O)SCCS2,C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1CC2(C[C@H]1C(=O)O)SCCS2,spirapril,Esterase,1,0.830508475,1,1,1,1,1,1
+71,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CC3=CC(=C(C=C3C[C@H]2C(=O)O)OC)OC,C[C@@H](C(=O)N1CC2=CC(=C(C=C2C[C@H]1C(=O)O)OC)OC)N[C@@H](CCC3=CC=CC=C3)C(=O)O,moexipril,Esterase,1,0.852459016,1,1,1,1,1,1
+72,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1[C@H](C(=O)O)C[C@H]2CCCC[C@@H]21,C[C@H](N[C@@H](CCc1ccccc1)C(=O)O)C(=O)N1[C@H](C(=O)O)C[C@H]2CCCC[C@@H]21,trandolapril,Esterase,1,0.824561404,1,1,1,1,1,1
+73,CCOC(=O)c1ccc(C#Cc2ccc3c(c2)C(C)(C)CCS3)nc1,CC1(C)CCSc2ccc(C#Cc3ccc(C(=O)O)cn3)cc21,tazarotene,Esterase,1,0.767857143,1,1,1,1,1,1
+74,CC(C)OC(=O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/[C@@H](O)COc1cccc(C(F)(F)F)c1,O=C(O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1/C=C/[C@@H](O)COc1cccc(C(F)(F)F)c1,travoprost,Esterase,1,0.814285714,1,1,1,1,1,1
+75,CCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)OCC5=C(OC(=O)O5)C)C(C)(C)O,CCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)O)C(C)(C)O,olmesartan medoxomil,Esterase,1,0.723684211,2,1,1,1,1,1
+77,CCOc1nc2cccc(C(=O)OCc3oc(=O)oc3C)c2n1Cc1ccc(-c2ccccc2-c2noc(=O)[nH]2)cc1,CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(-c2ccccc2-c2noc(=O)[nH]2)cc1,azilsartan medoxomil,Esterase,1,0.723684211,2,1,1,1,1,1
+78,CC(=O)O[C@H]1CC[C@@]2(C)C(=CC[C@H]3[C@@H]4CC=C(c5cccnc5)[C@@]4(C)CC[C@@H]32)C1,C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@@]43C)[C@@H]1CC=C2c1cccnc1,abiraterone acetate,Esterase,1,0.711864407,2,1,1,1,0,1
+79,CC(=O)O[C@H]1CC2=CC=CC=C2N(C3=CC=CC=C13)C(=O)N,C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O,eslicarbazepine acetate,Esterase,1,0.627906977,2,1,1,1,0,1
+80,COC(=O)C=CC(=O)OC,COC(=O)C=CC(=O)O,dimethyl fumarate,Esterase,1,0.764705882,1,1,1,1,1,1
+81,CCCCCCCCCCCC(=O)OCN1C(=O)CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc21,O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1,aripiprazole lauroxil,Esterase,1,0.556962025,2,1,1,1,1,1
+82,CC(=O)OC[C@H]1O[C@@H](n2ccc(=O)[nH]c2=O)[C@H](OC(C)=O)[C@@H]1OC(C)=O,O=c1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]1,uridine triacetate,Esterase,1,0.5,3,1,0,0,0,1
+83,CC(C)C[C@@H]1CN2CCC3=CC(=C(C=C3[C@H]2C[C@H]1OC(=O)[C@H](C(C)C)N)OC)OC,CC(C)CC1CN2CCC3=CC(=C(C=C3C2CC1O)OC)OC,valbenazine,Esterase,1,0.65,2,1,0,0,0,1
+84,CC1=N[C@@]2([C@H](O1)C[C@@H]3[C@@]2(C[C@@H]([C@H]4[C@H]3CCC5=CC(=O)C=C[C@]45C)O)C)C(=O)COC(=O)C,CC1=N[C@@]2([C@H](O1)C[C@@H]3[C@@]2(C[C@@H]([C@H]4[C@H]3CCC5=CC(=O)C=C[C@]45C)O)C)C(=O)CO,deflazacort,Esterase,1,0.808823529,1,1,1,1,1,1
+85,COC(=O)OCOC1=C2C(=O)N3CCOC[C@H]3N(N2C=CC1=O)[C@H]4C5=C(CSC6=CC=CC=C46)C(=C(C=C5)F)F,C1COC[C@@H]2N1C(=O)C3=C(C(=O)C=CN3N2[C@H]4C5=C(CSC6=CC=CC=C46)C(=C(C=C5)F)F)O,baloxavir marboxil,Esterase,1,0.710843373,2,1,0,1,0,1
+86,COC(/C=C/C(OCCN1C(CCC1=O)=O)=O)=O,COC(/C=C/C(O)=O)=O,diroximel fumarate ,Esterase,1,0.371428571,3,1,1,1,0,0
+89,CNCC(=O)OCc1cccnc1N(C)C(=O)OC(C)[n+]1cnn(C[C@](O)(c2cc(F)ccc2F)[C@@H](C)c2nc(-c3ccc(C#N)cc3)cs2)c1,C[C@@H](c1nc(-c2ccc(C#N)cc2)cs1)[C@](O)(Cn1cncn1)c1cc(F)ccc1F,isavuconazonium,Esterase,1,0.504672897,2,1,0,0,0,1
+90,CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C,testosterone undecanoate,Esterase,1,0.603448276,2,1,1,1,0,1
+91,CC(C)OC(=O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCc1ccccc1,O=C(O)CCC/C=C\C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCc1ccccc1,latanoprost,Esterase,1,0.775862069,1,1,1,1,1,1
+92,CC1=CC(=C(C=C1)C(=O)OCC2=CC=C(C=C2)C(CN)C(=O)NC3=CC4=C(C=C3)C=NC=C4)C,OCC1=CC=C(C(C(NC2=CC3=C(C=NC=C3)C=C2)=O)CN)C=C1,netarsudil,Esterase,1,0.640625,2,1,1,1,1,1
+95,CC(C)C(=O)OCC(=O)[C@@]12[C@@H](C[C@@H]3[C@@]1(C[C@@H]([C@H]4[C@H]3CCC5=CC(=O)C=C[C@]45C)O)C)O[C@H](O2)C6CCCCC6,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(O[C@@H](O4)C5CCCCC5)C(=O)CO)CCC6=CC(=O)C=C[C@]36C)O,ciclesonide,Esterase,1,0.8,1,1,1,1,1,1
+96,CCOC(=O)[C@H](CCc1ccccc1)N[C@H]1CCc2ccccc2N(CC(=O)O)C1=O,O=C(O)CN1C(=O)[C@@H](N[C@@H](CCc2ccccc2)C(=O)O)CCc2ccccc21,benazepril,Esterase,1,0.807017544,1,1,1,1,1,1
+97,CCC(=O)OC(OP(=O)(CCCCc1ccccc1)CC(=O)N1C[C@H](C2CCCCC2)C[C@H]1C(=O)O)C(C)C,O=C(O)[C@@H]1C[C@@H](C2CCCCC2)CN1C(=O)CP(=O)(O)CCCCc1ccccc1,fosinopril,Esterase,1,0.642857143,2,1,1,1,0,1
+98,CCCCCCCCCC(=O)OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,fluphenazine decanoate,Esterase,1,0.640625,2,1,1,1,1,1
+99,CC(=O)OC1=CC=CC=C1C(=O)NC2=NC=C(S2)[N+](=O)[O-],C1=CC=C(C(=C1)C(=O)NC2=NC=C(S2)[N+](=O)[O-])O,nitazoxanide,Esterase,1,0.673469388,2,1,1,1,0,1
+100,C1=CC=C(C=C1)CCCC(=O)OCC(COC(=O)CCCC2=CC=CC=C2)OC(=O)CCCC3=CC=CC=C3,C1=CC=C(C=C1)CCCC(=O)O,ravicti,Esterase,1,0.514285714,2,1,1,1,1,1
+101,CCCCCCOC(=O)/N=C(/N)c1ccc(NCc2nc3cc(C(=O)N(CCC(=O)OCC)c4ccccn4)ccc3n2C)cc1,Cn1c(CNc2ccc(C(=N)N)cc2)nc2cc(C(=O)N(CCC(=O)O)c3ccccn3)ccc21,dabigatran etexilate,Esterase,1,0.625,2,1,0,0,0,1
+102,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)C(=O)OCOC(=O)[C@H]4C(S(=O)(=O)[C@H]5N4C(=O)C5)(C)C)C,CC1([C@@H](N2[C@H](S1(=O)=O)CC2=O)C(=O)O)C,sultamicillin,Esterase,1,0.382352941,3,1,1,1,1,0
+103,CC1=CC=C(C=C1)C(=O)OC2=C(C=C(C=C2)C(CNC(C)(C)C)O)OC(=O)C3=CC=C(C=C3)C,CC(C)(C)NCC(O)c1ccc(O)c(O)c1,bitolterol,Esterase,1,0.489361702,3,1,0,0,0,1
+104,CC(C)OC(=O)OCOP(=O)(CO[C@H](C)Cn1cnc2c(N)ncnc21)OCOC(=O)OC(C)C,C[C@H](Cn1cnc2c(N)ncnc21)OCP(=O)(O)O,tenofovir disoproxil,Esterase,1,0.655172414,2,1,0,0,0,1
+105,Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](OC=O)c3ccccc3)[C@H]2SC1,Cn1nnnc1SCC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)[C@H](O)c3ccccc3)[C@H]2SC1,o-formylcefamandole,Esterase,1,0.783783784,1,1,0,1,0,1
+107,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)OCOC(=O)C(C)(C)C)=C(/C=C\c3scnc3C)CS[C@H]12)c1csc(N)n1,CO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)O)=C(/C=C\c3scnc3C)CS[C@H]12)c1csc(N)n1,cefditoren pivoxil,Esterase,1,0.788235294,1,1,1,1,1,1
+116,CC(OC(=O)C)OC(=O)C1=C(CSC2N1C(=O)C2NC(=O)C(=NOC)C3=CC=CO3)COC(=O)N,CON=C(C1=CC=CO1)C(=O)NC2C3N(C2=O)C(=C(CS3)COC(=O)N)C(=O)O,cefuroxime axetil,Esterase,1,0.779220779,1,1,1,1,1,1
+131,CC(=O)OC[C@H]1O[C@@H](n2ncc(=O)[nH]c2=O)[C@H](OC(C)=O)[C@@H]1OC(C)=O,O=c1cnn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]1,azaribine,Esterase,1,0.509433962,2,1,0,0,0,1
+110,CC=C1C(=O)NC(C(=O)OC2CC(=O)NC(C(=O)NC(CSSCCC=C2)C(=O)N1)C(C)C)C(C)C,CC=C1C(=O)NC(C(=O)OC(CC(=O)NC(C(=O)NC(C(=O)N1)CS)C(C)C)C=CCCS)C(C)C,romidepsin,Glutathione,1,0.455696203,3,1,0,0,0,1
+61,N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O,NCCc1ccc(O)c(O)c1,l-dopa,Lyase,1,0.454545455,3,1,1,1,1,1
+62,N[C@H](C(=O)O)[C@H](O)c1ccc(O)c(O)c1,NCC(O)c1ccc(O)c(O)c1,droxidopa,Lyase,1,0.470588235,3,1,0,0,0,1
+1,C=1(N(C(=NC1)C)CC(C)O)[N+]([O-])=O,CC1=NC=C(N1CC(C)O)N,secnidazole,Nitroreductase,1,0.552631579,2,1,1,1,0,1
+26,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N,sulfasalazine,Nitroreductase,1,0.5,3,1,1,1,1,1
+27,O=C(O)c1cc(N=Nc2ccc(O)c(C(=O)O)c2)ccc1O,Nc1ccc(O)c(C(=O)O)c1,olsalazine,Nitroreductase,1,0.551724138,2,1,1,1,1,1
+28,O=C(O)CCNC(=O)c1ccc(/N=N/c2ccc(O)c(C(=O)O)c2)cc1,Nc1ccc(O)c(C(=O)O)c1,balsalazide,Nitroreductase,1,0.355555556,3,1,1,1,1,1
+123,CC1=C(CC(=O)O)c2cc(F)ccc2/C1=C\c1ccc(S(C)=O)cc1,CSc1ccc(/C=C2/C(C)=C(CC(=O)O)c3cc(F)ccc32)cc1,sulindac,Oxidoreductase (Other),1,0.705882353,2,1,1,1,0,1
+63,C1CC(N(C1)C(=O)C2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)NC(=O)CNC(=O)CNC(=O)CN)C(=O)NC(CCCCN)C(=O)NCC(=O)N,C1CC(N(C1)C(=O)C2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)N)C(=O)NC(CCCCN)C(=O)NCC(=O)N,terlipressin,Peptidase,1,0.819047619,1,1,1,1,0,0
+126,COc1ccc(OC)c(C(O)CNC(=O)CN)c1,COc1ccc(OC)c(C(O)CN)c1,midodrine,Peptidase,1,0.65,2,1,1,1,0,1
+19,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)F)N,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N,fludarabine phosphate,Phosphatase,1,0.703703704,2,1,1,1,1,1
+20,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)COP(=O)(O)O,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO,prednisolone phosphate,Phosphatase,1,0.758064516,1,1,1,1,1,1
+21,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl,estramustine phosphate,Phosphatase,1,0.757575758,1,1,0,0,0,0
+22,CC(C)CN(C[C@@H](OP(=O)(O)O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)c1ccc(N)cc1,CC(C)CN(C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)c1ccc(N)cc1,fosamprenavir,Phosphatase,1,0.797297297,1,1,1,1,0,1
+24,CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC,CC1=NN(C=N1)C2=NC=C(C3=C2NC=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)OC,fostemsavir,Phosphatase,1,0.641025641,2,1,1,1,0,1
+25,NCCCNCCSP(=O)(O)O,NCCCNCCS,amifostine,Phosphatase,1,0.4,3,1,0,0,0,1
+127,C[C@@H](O[C@H]1OCCN(Cc2nn(P(=O)(O)O)c(=O)[nH]2)[C@H]1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,C[C@@H](O[C@H]1OCCN(Cc2n[nH]c(=O)[nH]2)[C@H]1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,fosaprepitant,Phosphatase,1,0.733333333,2,1,0,0,0,1
+128,Cn1nnc(-c2ccc(-c3ccc(N4C[C@H](COP(=O)(O)O)OC4=O)cc3F)cn2)n1,Cn1nnc(-c2ccc(-c3ccc(N4C[C@H](CO)OC4=O)cc3F)cn2)n1,tedizolid phosphate,Phosphatase,1,0.794117647,1,1,1,1,1,1
+129,CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CC[N+](CC4)(C)COP(=O)(O)[O-],CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C,fosnetupitant,Phosphatase,1,0.671052632,2,1,0,0,0,1
+130,CCO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CS[C@H]12)c1nsc(NP(=O)(O)O)n1,CCO/N=C(\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CS[C@H]12)c1nsc(N)n1,ceftaroline fosamil,Phosphatase,1,0.826086957,1,1,1,1,0,1
+108,COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)OCCN1CCOCC1)C(=O)OC2,COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)O)C(=O)OC2,mycophenolate mofetil,Transferase,1,0.65625,2,1,1,1,1,1
+6,CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O,CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O,terfenadine,CYP,2,0.803921569,1,1,1,1,0,1
+42,CC(C)C(C)C=CC(C)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C,CC(C=CC(C)C(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3=C)O)O)C,doxercalciferol,CYP,2,0.803278689,1,1,1,1,0,1
+43,CN(C)N=Nc1[nH]cnc1C(N)=O,C=[N+]=[N-],dacarbazine,CYP,2,0,4,1,0,0,0,0
+47,COC(=O)[C@H](C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3,COC(=O)[C@H](C1=CC=CC=C1Cl)N2CCC(C(=CC(=O)O)C2)S,clopidogrel,CYP,2,0.516129032,2,1,0,0,0,0
+56,CC[C@]12CC(=C)[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CCCC[C@H]34,CC[C@]12CC(=C)[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=CC(=O)CC[C@H]34,desogestrel,CYP,2,0.716666667,2,1,0,0,0,1
+35,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@H](C[C@H](CC(=O)O)O)O)C,simvastatin,Esterase,2,0.605633803,2,1,1,1,0,1
+7,C[C@@H](CN1CC(=O)NC(=O)C1)N2CC(=O)NC(=O)C2,CC(CN(CC(=O)N)CC(=O)O)N(CC(=O)N)CC(=O)O,dexrazoxane,Hydrolase (Other),2,0.127659574,4,1,0,0,0,0
+0,C1CC(OC1CO)N2C=NC3=C2N=CNC3=O,C1CC(OC1COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N2C=NC3=C(N=CN=C32)N,didanosine,Kinase,2,0.430769231,3,1,0,0,0,0
+11,C1=NC2=C(N1CCC(CO)CO)N=C(NC2=O)N,C1=NC2=C(N1CCC(CO)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N=C(NC2=O)N,penciclovir,Kinase,2,0.703703704,2,1,0,0,0,0
+39,C1C(OC(S1)CO)N2C=C(C(=NC2=O)N)F,C1C(OC(S1)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N2C=C(C(=NC2=O)N)F,emtricitabine,Kinase,2,0.637931034,2,1,0,0,0,0
+59,C1C(C(OC1N2C=NC3=C(N=C(N=C32)Cl)N)CO)O,CC1=NC(=C2C(=N1)N(C=N2)C3CC(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)N,cladribine,Kinase,2,0.515151515,2,1,0,0,0,0
+60,C=C1C(CC(C1CO)O)N2C=NC3=C2N=C(NC3=O)N,C=C1C(CC(C1OP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)N2C=NC3=C2N=C(NC3=O)N,entecavir,Kinase,2,0.609375,2,1,0,0,0,0
+113,C1=CN(C(=O)N=C1N)CC(CO)OCP(=O)(O)O,C1=CN(C(=O)N=C1N)CC(CO)OCP(=O)(O)OP(=O)(O)O,cidofovir,Kinase,2,0.787234043,1,1,0,0,0,1
+118,C1=NC(=NC(=O)N1C2C(C(C(O2)CO)O)O)N,O=C1N=C(N)N=CN1C2C(O)C(O)C(COP(O)(OP(O)(OP(O)(O)=O)=O)=O)O2,azacitidine,Kinase,2,0.611111111,2,1,0,0,0,0
+119,C1C(C(OC1N2C=C(C(=O)NC2=O)I)CO)O,O=C(NC1=O)C(I)=CN1C2OC(COP(O)(OP(O)(OP(O)(O)=O)=O)=O)C(O)C2,idoxuridine,Kinase,2,0.636363636,2,1,0,0,0,0
+120,C1CC(OC1CO)N2C=CC(=NC2=O)N,C1CC(OC1COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N2C=CC(=NC2=O)N,zalcitabine,Kinase,2,0.611111111,2,1,0,0,0,0
+121,CC1=CN(C(=O)NC1=O)C2C=CC(O2)CO,CC1=CN(C(=O)NC1=O)C2C=CC(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O,stavudine,Kinase,2,0.596153846,2,1,0,0,0,0
+122,C1C(OC(S1)CO)N2C=CC(=NC2=O)N,C1C(OC(S1)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N2C=CC(=NC2=O)N,lamivudine,Kinase,2,0.625,2,1,0,0,0,0
+132,C1=NC2=C(N1COC(CO)CO)N=C(NC2=O)N,C1=NC2=C(N1COC(CO)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N=C(NC2=O)N,ganciclovir,Kinase,2,0.709090909,2,1,0,0,0,0
+133,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-],CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N=[N+]=[N-],azidothymidine,Kinase,2,0.68852459,2,1,0,0,0,0
+135,CCC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O,CCC1=CN(C2CC(O)C(COP(O)(OP(O)(OP(O)(O)=O)=O)=O)O2)C(NC1=O)=O,edoxudine,Kinase,2,0.642857143,2,1,0,0,0,0
+136,C1=NC2=C(N1COCCO)N=C(NC2=O)N,C1=NC2=C(N1COCCOP(=O)(O)OP(=O)(O)OP(=O)(O)O)N=C(NC2=O)N,acyclovir,Kinase,2,0.68627451,2,1,0,0,0,0
+15,C1=NC(=NN1C2C(C(C(O2)CO)O)O)C(=O)N,C1=NC(=NN1C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)C(=O)N,ribavirin ,"Kinase, Hydrolase (Other)",2,0.611111111,2,1,0,0,0,0
+16,C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)C4CC(C=C4)CO,C1C(C=CC1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O,abacavir ,"Kinase, Hydrolase (Other), Transferase",2,0.383561644,3,1,0,0,0,0
+10,CC(C)(CCCCCC(CCCCCC(C)(C)C(=O)O)O)C(=O)O,O=C(C(C)(C)CCCCCC(O)CCCCCC(C)(C(O)=O)C)SCCNC(CCNC(C(O)C(C)(COP(O)(OP(O)(OCC1C(OP(O)(O)=O)C(O)C(N2C=NC3=C(N)N=CN=C32)O1)=O)=O)C)=O)=O,bempedoic acid,Ligase,2,0.237623762,4,1,0,0,1,0
+112,COC(=O)CCC(=O)CN,C=CC1=C(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)[O-])C(CCC(=O)[O-])=C4C)c(C)c3C=C,methyl 5-aminolevulinate,Lyase,2,0.089552239,4,1,0,0,0,0
+17,C1C2=CC=CC=C2N(C3=CC=CC=C3C1=O)C(=O)N,C1C(C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O,oxcarbazepine,Oxidoreductase (Other),2,0.5,3,1,1,1,1,1
+18,C1=NNC2=C1C(=O)NC=N2,C1=NNC2=C1C(=O)NC(=O)N2,allopurinol,Oxidoreductase (Other),2,0.382352941,3,1,0,0,0,1
+44,Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,C/C(O)=C(\C#N)C(=O)Nc1ccc(C(F)(F)F)cc1,leflunomide,CYP,3,0.4,3,1,0,0,0,1
+46,CC(C)N=C(N)N=C(N)NC1=CC=C(C=C1)Cl,CC1(N=C(N=C(N1C2=CC=C(C=C2)Cl)N)N)C,proguanil,CYP,3,0.196078431,4,1,0,1,0,0
+53,CC1=CC(=NC2=C1C(=C(C=C2NC(C)CCCN)OC)OC3=CC=CC(=C3)C(F)(F)F)OC,CC1=C(C(C(C=C2NC(CCCN)C)=O)=O)C2=NC(OC)=C1,tafenoquine ,CYP,3,0.379746835,3,1,0,0,0,1
+55,CC(=O)OC1=CC2=C(S1)CCN(C2)C(C3=CC=CC=C3F)C(=O)C4CC4,C1CC1C(=O)C(C2=CC=CC=C2F)N3CCC(C(=CC(=O)O)C3)S,prasugrel,CYP,3,0.463768116,3,1,0,0,0,0
+111,O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],[N]=O,nitroglycerin,"CYP, Transferase",3,0.047619048,4,1,0,0,0,0
+87,CCCCCCC(=O)OCC(COC(=O)CCCCCC)OC(=O)CCCCCC,CCCCCCC(=O)[O-],triheptanoin ,Esterase,3,0.40625,3,1,0,0,0,1
+117,CCOC(=O)C(CC1=CC=C(C=C1)F)NC(=O)C(CC2=CC=C(C=C2)N(CCCl)CCCl)N,C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl,melphalan flufenamide ,"Esterase, Hydrolase (Other)",3,0.518518519,2,1,1,1,0,1
+32,CCCCCOC(=O)Nc1nc(=O)n([C@@H]2O[C@H](C)[C@@H](O)[C@H]2O)cc1F,O=c1[nH]cc(F)c(=O)[nH]1,capecitabine,"Esterase, Hydrolase (Other), Transferase",3,0.125,4,1,0,0,0,0
+34,CC(C)OC(=O)[C@H](C)N[P@](=O)(CO[C@H](C)Cn1cnc2c(N)ncnc21)Oc1ccccc1,C[C@H](Cn1cnc2c(N)ncnc21)OCP(=O)(O)O,tenofovir alafenamide,"Esterase, Hydrolase (other)",3,0.584615385,2,1,0,0,0,1
+88,CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@H]1O[C@@](C#N)(c2ccc3c(N)ncnn23)[C@H](O)[C@@H]1O)Oc1ccccc1,C1=C2C(=NC=NN2C(=C1)C3(C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)C#N)N,remdesivir,"Esterase, Hydrolase (other), Kinase",3,0.555555556,2,1,0,0,0,0
+93,CC(C)[C@@H](C(=O)OCCOCN1C=NC2=C1N=C(NC2=O)N)N,C1=NC2=C(N1COCCOP(=O)(O)OP(=O)(O)OP(=O)(O)O)N=C(NC2=O)N,valacyclovir,"Esterase, Kinase",3,0.590163934,2,1,0,0,0,0
+94,CC(C)[C@H](N)C(=O)OCC(CO)OCn1cnc2c(=O)nc(N)[nH]c21,C1=NC2=C(N1COC(CO)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N=C(NC2=O)N,valganciclovir,"Esterase, Kinase",3,0.445945946,3,1,0,0,0,0
+114,CCCCCCCCCCCCCCCCOCCCOP(=O)(COC(CN1C=CC(=NC1=O)N)CO)O,C1=CN(C(=O)N=C1N)CC(CO)OCP(=O)(O)OP(=O)(O)O,brincidofovir ,"Esterase, Kinase",3,0.639344262,2,1,0,0,0,0
+109,Cn1cnc([N+](=O)[O-])c1Sc1ncnc2nc[nH]c12,S=c1[nH]cnc2nc[nH]c12,azathioprine,Glutathione,3,0.29787234,3,1,0,0,0,0
+58,C1=NC(=O)NC(=C1F)N,O=c1[nH]cc(F)c(=O)[nH]1,5-fluorocytosine,Hydrolase (Other),3,0.28125,3,1,0,0,0,1
+115,CCC(C)CCCCC(=O)NC(CCNCS(=O)(=O)[O-])C(=O)NC(C(C)O)C(=O)NC(CCNCS(=O)(=O)[O-])C(=O)NC1CCNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)CCNCS(=O)(=O)[O-])CC(C)C)CC(C)C)CCNCS(=O)(=O)[O-])CCNCS(=O)(=O)[O-])C(C)O,CCC(C)CCCC(=O)NC(CCN)C(=O)NC(C(C)O)C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC1=O)CCN)CC(C)C)CC(C)C)CCN)CCN)C(C)O,colistimethate,Hydrolase (Other),3,0.75,2,1,0,0,0,0
+124,CC1CS(=O)(=O)CCN1N=CC2=CC=C(O2)[N+](=O)[O-],[O-][O],nifurtimox,Nitroreductase,3,0.044444444,4,1,0,0,0,0
+134,C1=CC=C(C=C1)CNC(=O)CN2C=CN=C2[N+](=O)[O-],NC1=NC(O)C(O)N1,benznidazole,Nitroreductase,3,0.054545455,4,1,0,0,0,0
+13,C[C@]12CC(=O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@@]43C)[C@@H]1CC[C@]2(O)C(=O)CO,prednisone,Oxidoreductase (Other),3,0.683333333,2,1,0,0,0,1
+29,[2H]C([2H])([2H])OC1=C(C=C2[C@H]3CC(=O)[C@@H](CN3CCC2=C1)CC(C)C)OC([2H])([2H])[2H],CC(C)CC1CN2CCC3=CC(=C(C=C3C2CC1O)OC)OC,deutetrabenazine,Oxidoreductase (Other),3,0.525423729,2,1,0,0,0,0
+125,C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3,C[C@]1([C@@H]([C@H](O[C@H]1N2C=CC(=O)NC2=O)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)F,sofosbuvir,"Transferase, Esterase, Peptidase, Kinase",3,0.551282051,2,1,0,0,0,0
