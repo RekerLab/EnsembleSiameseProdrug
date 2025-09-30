@@ -29,6 +29,7 @@ This folder contains data files used to train and evaluate models:
 
 ### embedding_extraction
 This folder contains code used to extract latent embeddings representing the prodrug test set from each of the three SiameseNN models in the ensemble.
+Due to the large file size of extracted embeddings, these are stored on Zenodo: 10.5281/zenodo.17237767.
 
 ### model
 This folder contains code used to train and evaluate each of the three SiameseNN models in the ensemble.
