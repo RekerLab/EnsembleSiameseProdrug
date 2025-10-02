@@ -2,6 +2,7 @@
 This study details the development of an ensemble Siamese neural network model for predicing prodrug activation. Our model accurately predicts FDA-approved prodrugs and shows particularly remarkable performance in predicting non-traditional biotransformations, prodrug activations not captured by established metabolic reaction rules, and when predicting activation of prodrugs with lower chemical structural similarity to their API. A prospective analysis confirmed the model's ability to rank prodrug candidates by their observed release profile, establishing this tool as a generalizable resource for rational prodrug design.
 <img width="1401" height="409" alt="GitHubAbstract" src="https://github.com/user-attachments/assets/9d5ecc7e-5848-4302-9487-8a27adf1183c" />
 
+<br />
 
 ## Folder descriptions
 ### ablation
@@ -39,3 +40,10 @@ This folder contains data files detailing predictions made by the:
 * SiameseNN and modified models 
 * Baseline models
 * Existing meatbolism prediction tools
+
+<br />
+
+## License
+The copyrights of the software are owned by Duke University. As such, two licenses for this software are offered:
+1. An open-source license under the GPLv2 license for non-commercial academic use.
+2. A custom license with Duke University, for commercial use or uses without the GPLv2 license restrictions.
