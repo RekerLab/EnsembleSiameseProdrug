@@ -33,7 +33,7 @@ This folder contains code used to extract latent embeddings representing the pro
 Due to the large file size of extracted embeddings, these are stored on Zenodo: [10.5281/zenodo.17237868](https://doi.org/10.5281/zenodo.17237868)
 
 ### integrated_gradients
-This folder contains code used to calculate integrated gradients for a set of prodrugs with proven or theoretical competing metabolic pathways for each of the three SiameseNN models in the ensemble. This folder also contains the calculated gradients for each model.
+This folder contains code used to calculate integrated gradients for a set of prodrugs with proven or theoretical competing metabolic pathways for each of the three SiameseNN models in the ensemble. This folder also contains gradients calculated by each model for this set of prodrugs.
 
 ### model
 This folder contains code used to train and evaluate each of the three SiameseNN models in the ensemble.
