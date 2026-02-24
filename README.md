@@ -32,6 +32,9 @@ This folder contains data files used to train and evaluate models:
 This folder contains code used to extract latent embeddings representing the prodrug test set from each of the three SiameseNN models in the ensemble.
 Due to the large file size of extracted embeddings, these are stored on Zenodo: [10.5281/zenodo.17237868](https://doi.org/10.5281/zenodo.17237868)
 
+### integrated_gradients
+This folder contains code used to calculate integrated gradients for a set of prodrugs with proven or theoretical competing metabolic pathways for each of the three SiameseNN models in the ensemble. This folder also contains the calculated gradients for each model.
+
 ### model
 This folder contains code used to train and evaluate each of the three SiameseNN models in the ensemble.
 
