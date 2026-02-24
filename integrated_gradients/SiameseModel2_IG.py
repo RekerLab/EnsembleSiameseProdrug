@@ -233,4 +233,4 @@ prod_df = pd.DataFrame(prod_grads_final).add_prefix('prod_bit_')
 
 
 df_wide = pd.concat([reac_df, prod_df], axis=1)
-df_wide.to_csv(base_path + '/results/gradients/gradients_{}.csv'.format(split))
+df_wide.to_csv(base_path + '/integrated_gradients/gradients_{}.csv'.format(split))
